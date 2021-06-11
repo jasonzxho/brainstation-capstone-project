@@ -1,5 +1,5 @@
-# capstone-project
 # BrainStation Capstone Project
+
 ## BikeShare Toronto Analysis
 
 This project consists of 4 parts:
